@@ -5,3 +5,4 @@
 5. [lab05] (https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/Assignment_5.ipynb)\
 6. [lab06] (https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/SVM.ipynb)\
 7. [lab07] (https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/AIML_LAB_07%20(2).ipynb)\
+8. [lab08] (https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/lab_08.ipynb)
