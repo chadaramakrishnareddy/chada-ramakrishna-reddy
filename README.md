@@ -3,3 +3,4 @@ lab02 https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main
 lab03 https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/Lab3_AIML.ipynb
 lab04 https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/LAB_AIML_4.ipynb
 lab05 https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/Assignment_5.ipynb
+lab06 https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/SVM.ipynb
