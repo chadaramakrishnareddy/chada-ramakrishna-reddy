@@ -7,3 +7,4 @@
 7. [lab07] (https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/AIML_LAB_07%20(2).ipynb)\
 8. [lab08] (https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/lab_08.ipynb)
 9. [lab09] (https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/Lab09-AIML.ipynb)\
+10.[lab10] (https://github.com/chadaramakrishnareddy/chada-ramakrishna-reddy/blob/main/Lab09-AIML.ipynb) 
